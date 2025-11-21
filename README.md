@@ -1,2 +1,4 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL Server, including ETL processes, data modelling and analytics.
+# Data Warehouse and Analytics Project
+
+Welcome to the Data Warehouse & Analytics Project! 🚀
+This repo features a complete data warehouse solution built to deliver real, actionable insights following modern data engineering best practices.
