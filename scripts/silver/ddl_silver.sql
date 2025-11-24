@@ -1,11 +1,11 @@
 /*
 ===============================================================================
-DDL Script: Bronze Tables Creation
+DDL Script: Silver Tables Creation
 ===============================================================================
 Purpose:
-    This script creates the tables under the 'bronze' schema. 
+    This script creates the tables under the 'silver' schema. 
     If any of these tables already exist, they will be dropped first.
-    Execute this script to redefine the DDL structure of the 'bronze' tables.
+    Execute this script to redefine the DDL structure of the 'silver' tables.
 ===============================================================================
 */
 
@@ -79,3 +79,4 @@ cid NVARCHAR(50),
 cntry NVARCHAR(50),
 dwh_create_date DATETIME2 DEFAULT GETDATE()
 );
+
